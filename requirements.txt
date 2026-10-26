@@ -1,0 +1,20 @@
+---- Start of requirements.txt ----
+
+Required blender versions: Blender 5.0 +
+
+Required python version: Python 3.13 +
+
+Required application-template installation:
+
+   Must open compatible Blender version and click the blender logo in the top-left of the application.
+
+	Then hover the cursor over "Install Application Template".
+
+	After that, find the directory where you downloaded or cloned the blendboards repository.
+	Find and Select the Blendboards.zip file and select "Install Application from file" in the bottom right.
+
+   This shall complete the installation and will allow the user to load the template in Blender: File -> New -> Blendboards
+
+These are the manual steps to loading the template, there will also be an install script to allow users to deploy the application in a VFX pipeline setting.
+
+---- End of requirements.txt ----

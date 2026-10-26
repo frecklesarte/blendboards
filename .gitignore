@@ -1,0 +1,9 @@
+# Start of .gitignore
+
+# ignore any vim .swp files
+.swp
+*.swp
+
+# ignore .blend1 blender's project backup files
+.blend1
+*.blend1
