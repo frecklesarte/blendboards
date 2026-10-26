@@ -28,7 +28,7 @@ def update_factory_startup_screens():
     for area in screen.areas:
         if area.type == 'VIEW_3D':
             space = area.spaces.active
-            space.shading.type = 'ATTRIBUTES'
+            space.shading.type = 'MATERIAL'
             space.shading.use_scene_world = True
 
 
