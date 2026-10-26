@@ -2,5 +2,5 @@
 
 "Blend-boards" is a Blender application template built to help users and production pipelines enjoy a robust story-boarding workflow with features and tools meant to streamline the story-boarding process.
 
-The application template uses the @d Animation template as it's base and builds upon that.
+The application template uses the 2d Animation template as it's base and builds upon that.
 A decision was made to provide users with the ability to select the workspace as a template instead of installing as a usual add-on. Currently in development.
