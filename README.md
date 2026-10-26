@@ -1,4 +1,4 @@
-<img width="1920" height="1048" alt="startup_development-v0 0 1" src="https://github.com/user-attachments/assets/f52de763-3141-4752-95eb-66b111d1c2bf" />
+<img width="1920" height="1048" alt="startup_development-v1 0 0" src="https://github.com/user-attachments/assets/ebe2949a-7eda-45a0-816a-a79fd5324c5f" />
 
 "Blend-boards" is a Blender application template built to help users and production pipelines enjoy a robust story-boarding workflow with features and tools meant to streamline the story-boarding process.
 
