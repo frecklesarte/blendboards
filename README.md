@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="splash" src="https://github.com/user-attachments/assets/0b4089a2-0d6f-49c3-b8eb-29812947fbce" />
+<img width="1920" height="1048" alt="startup_development-v1 0 1" src="https://github.com/user-attachments/assets/85e832e9-8867-4ec9-ad82-3e1028f900d2" />
 
 <img width="1920" height="1048" alt="startup_development-v1 0 0" src="https://github.com/user-attachments/assets/ebe2949a-7eda-45a0-816a-a79fd5324c5f" />
 
